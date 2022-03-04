@@ -1,4 +1,4 @@
 # Olá, Mundo.
  Primeira repositorio versonado
 
-repositório criado durente a aula!
+repositório criao durante a aula
